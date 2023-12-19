@@ -1,0 +1,15 @@
+.text {
+    width: 20%;
+    color: white;
+    text-align: right;
+    margin-left: 77%;
+    /*margin-top: 50%;*/
+    padding-top: 15%;
+}
+
+.welcome {
+    background-image: url("moon-landing.png");
+    width: 100%;
+    height: 662px;
+    background-size: cover;
+}
